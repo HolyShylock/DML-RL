@@ -1,7 +1,7 @@
 # RL
 ## something to learni Reinforcement learning
 ### dqn base
-baseline.py and Make_Env.py are from baseline project, you may get it here[baseline][1]  
+baseline.py and Make_Env.py are from baseline project, you may get it here ([baseline][1]).  
 
 In file dqn.ipynb, it implement basic dqn algorithm.And alse you can load parameters directly.  
 
