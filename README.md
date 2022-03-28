@@ -1,6 +1,6 @@
 # RL
 ## something to learn Reinforcement learning  
-The main package used: pytorch(1.5.1, cuda:10.1)  
+The main packages used: pytorch(1.5.1, cuda:10.1), gym(0.21.0)  
 
 ### dqn base
 baseline.py and Make_Env.py are from baseline project, you may get it here ([baseline][1]).   
