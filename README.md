@@ -1,5 +1,5 @@
-# RL
-## something to learn Reinforcement learning  
+# DML-RL
+## a project that aims to implement the transfer of RL model by DML
 The main packages used: pytorch(1.5.1, cuda:10.1), gym(0.21.0)  
 
 ### dqn base
